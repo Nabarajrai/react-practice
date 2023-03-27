@@ -1,0 +1,19 @@
+.container {
+  max-width: 1140px;
+  margin: auto;
+  padding: 10px;
+  .wrapper {
+    margin-top: 2rem;
+  }
+  .text {
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+  .todo-list {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+  }
+}

@@ -1,0 +1,10 @@
+.inputs {
+  width: 70%;
+  padding: 10px 20px;
+  border: 1 px solid green;
+  border-radius: 5px;
+  &:hover {
+    background-color: transparent;
+    outline: none;
+  }
+}
